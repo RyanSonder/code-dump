@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
-
 # Project Euler Problem 1 - Multiples of 3 or 5
+# https://projecteuler.net/problem=1
 # 2025-06-26
 
 sum = 0
