@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 
 # Project Euler Problem 1 - Multiples of 3 or 5
+# 2025-06-26
 
 sum = 0
 for i in (range(1000)):
