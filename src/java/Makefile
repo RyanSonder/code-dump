@@ -3,4 +3,4 @@
 run:
 	@javac $(FILE)
 	@java $(FILE)
-	@rm -f $(FILE).class
+	@rm -f *.class
